@@ -30,7 +30,7 @@
     "props": {
       "verticalAlign": "center",
       "preventVerticalStretch": true
-    },
+    }
   },
 
   "product-price": { 
