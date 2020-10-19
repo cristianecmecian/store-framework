@@ -16,6 +16,10 @@
   },
 
   "flex-layout.col#left": {
+    "props": {
+      "verticalAlign": "center",
+      "preventVerticalStretch": true
+    },
     "children": [
       "product-images"
     ]
@@ -23,7 +27,8 @@
 
   "flex-layout.col#right": {
     "props": {
-      "verticalAlign": "center"
+      "verticalAlign": "center",
+      "preventVerticalStretch": true
     },
     "children": [
       "product-name", 
